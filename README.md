@@ -1,6 +1,6 @@
 # Keyacom
 
-<img src="https://img.shields.io/static/v1?message=@keyacom&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /> <a href="https://www.youtube.com/@Keyacom"><img src="https://img.shields.io/static/v1?message=Keyacom&logo=youtube&label=YouTube%20channel&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /></a>
+<img src="https://img.shields.io/static/v1?message=@keyacom&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /> <a href="https://www.youtube.com/@Keyacom"><img src="https://img.shields.io/static/v1?message=Keyacom&logo=youtube&label=YouTube%20channel&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" /></a>
 
 Wojciech Marzec, better known as Keyacom. A Polish programming enthusiast and friend of [Maya](https://github.com/MayaTakenOutOfCode).
 
